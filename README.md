@@ -10,7 +10,7 @@ My work spans **TypeScript development, Linux infrastructure, test automation, A
 
 I care about reproducibility, maintainability, clear failure modes, and solving problems at the right layer.
 
-🌐 **[Portfolio](https://natemtz.dev)** | 💼 **[LinkedIn](www.linkedin.com/in/nathan-m-145133288)** | 📍 Albuquerque, NM
+🌐 **[Portfolio](https://natemtz.dev)** | 💼 **[LinkedIn](https://www.linkedin.com/in/nathan-m-145133288)** | 📍 Albuquerque, NM
 
 ---
 
