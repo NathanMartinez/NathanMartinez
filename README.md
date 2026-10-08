@@ -1,65 +1,108 @@
-# Hi, I'm Nate 👋
+# Hey, I'm Nate 👋
 
-I'm a software quality and technical systems professional with experience in
-enterprise software, QA/SQA, troubleshooting, integration testing, support, and
-developer tooling.
+**Software Quality • Systems Engineering • Developer Tooling • Open Source**
 
-I enjoy building practical tools that remove friction from real workflows,
-especially around software quality, automation, APIs, systems, developer
-experience, and open source.
+I'm a software quality and technical systems professional with experience spanning enterprise software QA, systems administration, technical support, integration testing, and troubleshooting.
 
-## 🔧 What I work on
+I enjoy building practical tools, investigating difficult bugs, automating repetitive workflows, and understanding how complex systems fit together.
 
-- Software Quality Assurance / SDET
-- Test automation and integration testing
-- Developer tooling
-- Workflow automation
-- Linux and systems
-- APIs, networking, and debugging
-- Open-source software
+My work spans **TypeScript development, Linux infrastructure, test automation, APIs, networking, and open-source contributions**.
 
-I care about reproducibility, clear failure modes, conservative automation, and
-fixing problems at the correct layer.
+I care about reproducibility, maintainability, clear failure modes, and solving problems at the right layer.
 
-## 🔥 Current project
+🌐 **[Portfolio](https://natemtz.dev)** | 💼 **[LinkedIn](www.linkedin.com/in/nathan-m-145133288)** | 📍 Albuquerque, NM
 
-### Bun Burner
+---
 
-A source-preserving two-way synchronization tool for Bitburner.
+## 🚀 Featured projects
 
-Bun Burner lets external editors work directly with:
+### 🔥 [Bun Burner](https://github.com/NathanMartinez/bun-burner)
+**TypeScript • WebSockets • Synchronization • Automated Testing**
 
-`.js ⇄ .js`  
-`.jsx ⇄ .jsx`  
-`.ts ⇄ .ts`  
-`.tsx ⇄ .tsx`
+A source-preserving, bidirectional synchronization tool for the game Bitburner, designed to integrate external development environments with its in-game filesystem.
 
-without requiring the source-sync layer to transpile or bundle it first.
+- Preserves JavaScript, JSX, TypeScript, and TSX source files without requiring transpilation during synchronization.
+- Implements conflict detection, hashing, recovery copies, and conservative failure handling.
+- Includes unit and integration testing for filesystem behavior, synchronization, and error recovery.
+- Uses cross-platform CI validation and live integration testing.
 
-The project focuses heavily on testing, conflict safety, integration behavior,
-cross-platform filesystem edge cases, and evidence-driven development.
+**Current development:** Node.js compatibility, npm packaging, and a planned VS Code extension.
 
-[View Bun Burner →](https://github.com/NathanMartinez/bun-burner)
+### 📱 [Chora](https://github.com/CraftWorksMC/Chora)
+**Kotlin • Android TV • QA • Open Source**
 
-## 🤝 I'm interested in
+Contributor to Chora, an open-source Android music application.
 
-I'm especially interested in collaborating with:
+**Three merged upstream pull requests:**
 
-- software engineers
-- QA / SQA / SDET professionals
-- open-source maintainers
-- tooling and automation developers
-- systems and infrastructure engineers
-- people who enjoy breaking software in useful ways
+- **#116:** Corrected Navidrome provider initialization during replacement.
+- **#118:** Enabled existing debug-build validation for pull requests.
+- **#121:** Added playlist deletion confirmation with proper handling of held remote-control input.
 
-I'm currently interested in software quality, test engineering, developer tooling,
-systems, automation, and related software engineering opportunities.
+Validated behavior using Android emulators and physical Fire TV hardware, including navigation, playback, artwork, and lyrics.
 
-## 🌱 Open source
+### 🖥️ Fedora Homelab & Infrastructure Automation
+**Fedora Linux • Podman • systemd Quadlet • Ansible • Caddy • DNS**
 
-I'm interested in contributing to open-source projects, improving developer
-workflows, and helping turn reproducible bugs and integration problems into useful
-upstream contributions.
+Building and maintaining a self-hosted environment focused on infrastructure automation, service integration, and secure networking.
 
-If you're working on something interesting in testing, tooling, infrastructure,
-developer experience, or open source, feel free to reach out.
+- Containerized services managed through Podman and systemd Quadlets.
+- HTTPS and reverse-proxy configuration using Caddy.
+- DNS infrastructure using AdGuard Home and Unbound.
+- Git-managed configuration and evolving Ansible automation.
+- Service monitoring, private networking, and infrastructure troubleshooting.
+
+**Status:** Active personal infrastructure project. Public documentation and sanitized architecture examples are planned.
+
+### 🔌 MCP Integrations & Cloudflare Workers
+**Model Context Protocol • APIs • Cloudflare Workers • Authentication**
+
+Developed two personal ChatGPT integrations using MCP and Cloudflare Workers.
+
+Work includes API adapters, request validation, authentication controls, secret handling, and automated contract testing.
+
+The integrations are functional personal deployments. Their operational configurations remain private.
+
+---
+
+## 🛠️ Technical areas
+
+| Area | Technologies & Practices |
+|---|---|
+| Software Development | TypeScript, JavaScript, Kotlin contributions, SQL |
+| Quality Engineering | Regression, integration, API, end-to-end and exploratory testing |
+| Testing & CI | Bun Test, GitHub Actions, Postman, defect triage |
+| Systems & Infrastructure | Fedora, Linux, Windows Server, Podman, systemd, VMware |
+| Networking & Security | DNS, HTTPS/TLS, reverse proxies, Cloudflare, Tailscale |
+| Automation & Tooling | Git, Ansible, PowerShell, CLI development |
+| Integration | REST APIs, WebSockets, MCP, MySQL |
+
+---
+
+## 🤝 Open source & collaboration
+
+I enjoy contributing to existing projects, particularly when the work involves:
+
+- Reproducing and resolving bugs.
+- Improving test coverage and release validation.
+- Strengthening reliability and failure handling.
+- Building developer tools and integrations.
+- Improving documentation and maintainability.
+
+I value focused pull requests, clear technical communication, and changes that can be independently verified.
+
+---
+
+## 💼 Professional opportunities
+
+I'm interested in opportunities across:
+
+**Software QA / Test Engineering • Developer Tooling • Systems Administration • Infrastructure • Technical Support Engineering • Software Development**
+
+I bring professional experience in enterprise QA, technical leadership, systems troubleshooting, and cross-functional engineering support, alongside active development and open-source work.
+
+🌐 **Portfolio:** https://natemtz.dev
+
+💻 **Projects:** https://github.com/NathanMartinez
+
+📬 **Contact:** natemtztech@gmail.com
